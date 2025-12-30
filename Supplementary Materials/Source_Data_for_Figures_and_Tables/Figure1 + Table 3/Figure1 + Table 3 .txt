@@ -1,0 +1,49 @@
+==============================================================
+ FIGURE 1: STATISTICAL & QUALITATIVE INSIGHTS REPORT
+==============================================================
+
+--- [Part 1] Statistical Model Fit ---
+Model Type: Polynomial Regression (Order 2)
+R-squared (R2): 0.966
+Interpretation: An R2 value close to 1 indicates a strong fit,
+statistically confirming the exponential growth trajectory.
+
+--- [Part 2] Top 5 Years with Highest Publication Surge ---
+
+[Surge Year]: 2024
+  -> Net Growth (vs. Prev. Year): +38 articles
+  -> Dominant Thematic Focus: EXERCISE, NUTRITION, GUT MICROBIOTA
+  -> Key Driver (Top Cited Doc): VAN HUL M;CANI PD;PETITFILS C;DE VOS WM;TILG H;EL-OMAR EM (2024), Title: WHAT DEFINES A HEALTHY GUT MICROBIOME?... [Citations: 142]
+
+[Surge Year]: 2022
+  -> Net Growth (vs. Prev. Year): +20 articles
+  -> Dominant Thematic Focus: EXERCISE, GUT MICROBIOTA, MACHINE LEARNING
+  -> Key Driver (Top Cited Doc): COLLINS EJ;BOWYER C;TSOUZA A;CHOPRA M (2022), Title: TOMATOES: AN EXTENSIVE REVIEW OF THE ASSOCIATED HE... [Citations: 171]
+
+[Surge Year]: 2025
+  -> Net Growth (vs. Prev. Year): +18 articles
+  -> Dominant Thematic Focus: EXERCISE, GUT MICROBIOTA, PHYSICAL ACTIVITY
+  -> Key Driver (Top Cited Doc): CLEMENTE-SUÁREZ VJ;MARTÍN-RODRÍGUEZ A;CURIEL-REGUEROS A;RUBIO-ZARAPUZ A;TORNERO-AGUILERA JF (2025), Title: NEURO-NUTRITION AND EXERCISE SYNERGY: EXPLORING TH... [Citations: 13]
+
+[Surge Year]: 2018
+  -> Net Growth (vs. Prev. Year): +17 articles
+  -> Dominant Thematic Focus: EXERCISE, GUT MICROBIOTA, ATHLETES
+  -> Key Driver (Top Cited Doc): FIUZA-LUCES C;SANTOS-LOZANO A;JOYNER M;CARRERA-BASTOS P;PICAZO O;ZUGAZA JL;IZQUIERDO M;RUILOPE LM;LUCIA A (2018), Title: EXERCISE BENEFITS IN CARDIOVASCULAR DISEASE: BEYON... [Citations: 601]
+
+[Surge Year]: 2020
+  -> Net Growth (vs. Prev. Year): +11 articles
+  -> Dominant Thematic Focus: PHYSICAL ACTIVITY, EXERCISE, ATHLETES
+  -> Key Driver (Top Cited Doc): FANG EF;XIE CL;SCHENKEL JA;WU CK;LONG Q;CUI HH;AMAN Y;FRANK J;LIAO J;ZOU HC;WANG NY;WU J;LIU XT;LI T;FANG Y;NIU ZM;YANG G;HONG JS;WANG Q;CHEN GB;LI J;CHEN HZ;KANG L;SU HX;GILMOUR BC;ZHU XQ;JIANG H;HE N;TAO J;LENG SX;TONG TJ;WOO J (2020), Title: A RESEARCH AGENDA FOR AGEING IN CHINA IN THE 21ST ... [Citations: 476]
+
+
+==============================================================
+ Table 3 : top 5 surge_years
+==============================================================
+
+   Year Articles Abs_Increase Growth_Rate
+1  2024      102           38        59.4
+2  2022       74           20        37  
+3  2025      120           18        17.6
+4  2018       29           17       142. 
+5  2020       47           11        30.6
+> 

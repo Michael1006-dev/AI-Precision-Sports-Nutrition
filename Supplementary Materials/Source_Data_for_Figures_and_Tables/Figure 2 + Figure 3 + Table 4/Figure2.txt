@@ -1,0 +1,11 @@
+ Country_Clean                                               Articles
+ 1 USA                                                              170
+ 2 CHINA                                                            106
+ 3 UK                                                                51
+ 4 SOUTH KOREA                                                       12
+ 5 CANADA;CANADA;CANADA                                               7
+ 6 ITALY;ITALY;ITALY                                                  6
+ 7 AUSTRALIA;AUSTRALIA;AUSTRALIA                                      4
+ 8 AUSTRALIA;AUSTRALIA;AUSTRALIA;AUSTRALIA                            4
+ 9 AUSTRALIA;AUSTRALIA;AUSTRALIA;AUSTRALIA;AUSTRALIA;AUSTRALIA        4
+10 BRAZIL;BRAZIL;BRAZIL                                               4

@@ -1,0 +1,73 @@
+"From_Concept","To_Concept","Inclusion_Index_Weight","Explanation"
+"Aging
+(2005-2019)","Microbiome
+(2020-2026)",1,"The concept Aging (2005-2019) evolved into Microbiome (2020-2026)"
+"Health
+(2005-2019)","Metabolomics
+(2020-2026)",1,"The concept Health (2005-2019) evolved into Metabolomics (2020-2026)"
+"Wearable Technology
+(2005-2019)","Machine Learning
+(2020-2026)",1,"The concept Wearable Technology (2005-2019) evolved into Machine Learning (2020-2026)"
+"Gut Microbiota
+(2005-2019)","Exercise
+(2020-2026)",0.5,"The concept Gut Microbiota (2005-2019) evolved into Exercise (2020-2026)"
+"Ehealth
+(2005-2019)","Physical Activity
+(2020-2026)",0.333333333333333,"The concept Ehealth (2005-2019) evolved into Physical Activity (2020-2026)"
+"Probiotics
+(2005-2019)","Exercise
+(2020-2026)",0.333333333333333,"The concept Probiotics (2005-2019) evolved into Exercise (2020-2026)"
+"Metabolites
+(2005-2019)","Metabolomics
+(2020-2026)",0.25,"The concept Metabolites (2005-2019) evolved into Metabolomics (2020-2026)"
+"Metabolites
+(2005-2019)","Microbiome
+(2020-2026)",0.25,"The concept Metabolites (2005-2019) evolved into Microbiome (2020-2026)"
+"Microbiome
+(2005-2019)","Exercise
+(2020-2026)",0.25,"The concept Microbiome (2005-2019) evolved into Exercise (2020-2026)"
+"Microbiome
+(2005-2019)","Microbiome
+(2020-2026)",0.25,"The concept Microbiome (2005-2019) evolved into Microbiome (2020-2026)"
+"Physical Activity
+(2005-2019)","Metabolomics
+(2020-2026)",0.25,"The concept Physical Activity (2005-2019) evolved into Metabolomics (2020-2026)"
+"Physical Activity
+(2005-2019)","Microbiome
+(2020-2026)",0.25,"The concept Physical Activity (2005-2019) evolved into Microbiome (2020-2026)"
+"Physical Activity
+(2005-2019)","Physical Activity
+(2020-2026)",0.25,"The concept Physical Activity (2005-2019) evolved into Physical Activity (2020-2026)"
+"Internet
+(2005-2019)","Exercise
+(2020-2026)",0.2,"The concept Internet (2005-2019) evolved into Exercise (2020-2026)"
+"Internet
+(2005-2019)","Metabolomics
+(2020-2026)",0.2,"The concept Internet (2005-2019) evolved into Metabolomics (2020-2026)"
+"Internet
+(2005-2019)","Microbiome
+(2020-2026)",0.2,"The concept Internet (2005-2019) evolved into Microbiome (2020-2026)"
+"Nutrigenomics
+(2005-2019)","Exercise
+(2020-2026)",0.142857142857143,"The concept Nutrigenomics (2005-2019) evolved into Exercise (2020-2026)"
+"Nutrigenomics
+(2005-2019)","Metabolomics
+(2020-2026)",0.142857142857143,"The concept Nutrigenomics (2005-2019) evolved into Metabolomics (2020-2026)"
+"Nutrigenomics
+(2005-2019)","Microbiome
+(2020-2026)",0.142857142857143,"The concept Nutrigenomics (2005-2019) evolved into Microbiome (2020-2026)"
+"Nutrigenomics
+(2005-2019)","Nutrigenomics
+(2020-2026)",0.142857142857143,"The concept Nutrigenomics (2005-2019) evolved into Nutrigenomics (2020-2026)"
+"Exercise
+(2005-2019)","Exercise
+(2020-2026)",0.111111111111111,"The concept Exercise (2005-2019) evolved into Exercise (2020-2026)"
+"Exercise
+(2005-2019)","Metabolomics
+(2020-2026)",0.111111111111111,"The concept Exercise (2005-2019) evolved into Metabolomics (2020-2026)"
+"Exercise
+(2005-2019)","Microbiome
+(2020-2026)",0.111111111111111,"The concept Exercise (2005-2019) evolved into Microbiome (2020-2026)"
+"Exercise
+(2005-2019)","Physical Activity
+(2020-2026)",0.111111111111111,"The concept Exercise (2005-2019) evolved into Physical Activity (2020-2026)"

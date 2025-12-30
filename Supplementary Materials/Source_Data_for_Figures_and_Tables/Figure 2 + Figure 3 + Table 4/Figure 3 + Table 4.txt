@@ -1,0 +1,30 @@
+###--- Top 10 Most Collaborative Countries (Verified) ---###
+
+ USA          UK       CHINA       SPAIN       ITALY   AUSTRALIA 
+        366         269         181         176         162         148 
+
+    GERMANY      CANADA NETHERLANDS SWITZERLAND 
+        136         129          92          91 
+
+
+
+
+
+###---  Top 5 Strongest Collaboration Links ---###
+Country_A Country_B Link_Strength
+1       USA    CANADA            20
+2       USA        UK            19
+3        UK     ITALY            13
+4        UK     SPAIN            13
+5        UK AUSTRALIA            13
+
+
+
+
+
+
+###--- Top 5 Countries by Betweenness (Hubs) ---###
+  USA         UK      CHINA      QATAR      ITALY 
+0.10774169 0.08095054 0.07695289 0.06694889 0.05970413 
+
+

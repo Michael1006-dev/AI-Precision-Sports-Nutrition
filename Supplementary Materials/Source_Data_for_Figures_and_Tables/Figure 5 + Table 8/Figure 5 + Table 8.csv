@@ -1,0 +1,65 @@
+"X","Y","Label","Size","Cluster","Quadrant"
+1.20665012715973,24.2400554125041,"exercise 83
+gut microbiota 56
+diet 20
+performance 12
+recovery 12
+aging 10
+health 9
+fatigue 7
+sports 7
+body composition 5",24,"1","Q1: Motor Themes (核心)"
+1.00557305747927,27.0887586918355,"physical activity 53
+machine learning 33
+digital health 12
+wearable technology 11
+artificial intelligence 10
+ehealth 8
+mhealth 8
+physical exercise 8
+sleep 7
+mental health 6",24,"2","Q1: Motor Themes (核心)"
+1.10494781981575,21.9853489303954,"microbiome 42
+nutrition 38
+microbiota 17
+inflammation 15
+cardiovascular disease 10
+weight loss 6
+immune system 5
+metagenomics 5
+covid-19 4
+lifestyle 4",13,"3","Q4: Basic Themes (基础)"
+0.537717359942782,21.1778365667255,"metabolomics 36
+metabolism 14
+metabolites 9
+oxidative stress 8
+endurance 7
+elite athletes 5
+nuclear magnetic resonance 5
+creatine kinase 4
+soccer 4",9,"4","Q3: Emerging/Declining (边缘/新兴)"
+0.827789115334462,20.1961042810628,"probiotics 31
+athletes 28
+gut microbiome 23
+athletic performance 15
+sports nutrition 15
+sports performance 12
+probiotic 9
+exercise performance 7
+sport 7
+athlete 6",18,"5","Q4: Basic Themes (基础)"
+0.26000566893424,20.547619047619,"obesity 14
+diabetes 10
+metabolic syndrome 6
+prevention 4
+type 2 diabetes mellitus 4",5,"6","Q3: Emerging/Declining (边缘/新兴)"
+0.244444444444444,26.5077160493827,"nutrigenomics 12
+personalized nutrition 9
+caffeine 5
+genetics 5
+genes 4
+nutrigenetics 4",6,"7","Q2: Niche Themes (孤立)"
+0.108333333333333,23.4375,"life's essential 8 6
+wearable devices 6
+hypertension 4
+type 2 diabetes 4",4,"8","Q2: Niche Themes (孤立)"
