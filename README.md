@@ -26,4 +26,4 @@ This directory provides the supporting data for all results presented in the man
 ## Contact
 For further inquiries regarding the datasets or code, please direct your questions to the corresponding author:
 
-**Yu Luo** Email: zhenwofengcai1990@163.com
+**Xiangyu Wang** Email: 7175@cnu.edu.cn
